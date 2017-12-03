@@ -1,0 +1,11 @@
+{
+  "name": "wrapper",
+  "version": "1.0.0",
+  "description": "wrapper allowing crystal apps to run as a Google Cloud Function or AWS Lambda function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
