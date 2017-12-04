@@ -1,7 +1,7 @@
 const { spawn } = require('child_process');
 
 // path to compiled version of .cr file we want to run
-var binary_path = "./hello_world"
+var binary_path = "$$BINARY_PATH$$"
 
 var mode = 'gcp'
 
